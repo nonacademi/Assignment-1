@@ -73,3 +73,4 @@ print(data1 is not d)
 city = ['dhaka', "barishal", "coxbazar"]
 print ("chitagong" in city)
 print ("coxbazar" not in city)
+print ("coxbazar" in city)
